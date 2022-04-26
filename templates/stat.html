@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>{{stat.Nom}}</h1>
+  <small>Add by {{stat.Localisation}} on {{stat.create_date}}</small>
+  <hr>
+  <div>
+    {{stat.Localisation | safe}}
+  </div>
+{% endblock %}

@@ -1,0 +1,6995 @@
+[
+  {
+    "Time": "2019/03/04 07:21:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 80,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 25
+  },
+  {
+    "Time": "2019/03/04 07:22:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 26
+  },
+  {
+    "Time": "2019/03/04 07:23:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 26
+  },
+  {
+    "Time": "2019/03/04 07:24:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 27
+  },
+  {
+    "Time": "2019/03/04 07:25:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 29
+  },
+  {
+    "Time": "2019/03/04 07:26:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 32
+  },
+  {
+    "Time": "2019/03/04 07:27:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 34
+  },
+  {
+    "Time": "2019/03/04 07:28:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 38
+  },
+  {
+    "Time": "2019/03/04 07:29:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 44
+  },
+  {
+    "Time": "2019/03/04 07:30:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 45
+  },
+  {
+    "Time": "2019/03/04 07:31:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 44
+  },
+  {
+    "Time": "2019/03/04 07:32:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 47
+  },
+  {
+    "Time": "2019/03/04 07:33:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 07:34:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 47
+  },
+  {
+    "Time": "2019/03/04 07:35:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 49
+  },
+  {
+    "Time": "2019/03/04 07:36:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 79.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 51
+  },
+  {
+    "Time": "2019/03/04 07:37:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 79.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 53
+  },
+  {
+    "Time": "2019/03/04 07:38:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 79.2,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 70
+  },
+  {
+    "Time": "2019/03/04 07:39:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 63
+  },
+  {
+    "Time": "2019/03/04 07:40:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 59
+  },
+  {
+    "Time": "2019/03/04 07:41:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 70
+  },
+  {
+    "Time": "2019/03/04 07:42:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 78.7,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 78
+  },
+  {
+    "Time": "2019/03/04 07:43:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 78.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 65
+  },
+  {
+    "Time": "2019/03/04 07:44:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 78.2,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 60
+  },
+  {
+    "Time": "2019/03/04 07:45:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 78.1,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 61
+  },
+  {
+    "Time": "2019/03/04 07:46:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 77.9,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 61
+  },
+  {
+    "Time": "2019/03/04 07:47:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 77.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 76
+  },
+  {
+    "Time": "2019/03/04 07:48:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 77.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 90
+  },
+  {
+    "Time": "2019/03/04 07:49:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 77.5,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 89
+  },
+  {
+    "Time": "2019/03/04 07:50:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 77.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 106
+  },
+  {
+    "Time": "2019/03/04 07:51:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 77.2,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 104
+  },
+  {
+    "Time": "2019/03/04 07:52:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 77.2,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 91
+  },
+  {
+    "Time": "2019/03/04 07:53:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 76.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 68
+  },
+  {
+    "Time": "2019/03/04 07:54:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 76.7,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 77
+  },
+  {
+    "Time": "2019/03/04 07:55:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 76.7,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 91
+  },
+  {
+    "Time": "2019/03/04 07:56:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 76.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 82
+  },
+  {
+    "Time": "2019/03/04 07:57:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 76.4,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 69
+  },
+  {
+    "Time": "2019/03/04 07:58:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 76.3,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 56
+  },
+  {
+    "Time": "2019/03/04 07:59:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 76,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 58
+  },
+  {
+    "Time": "2019/03/04 08:00:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 75.7,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 42
+  },
+  {
+    "Time": "2019/03/04 08:01:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 75.4,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 61
+  },
+  {
+    "Time": "2019/03/04 08:02:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 75.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 108
+  },
+  {
+    "Time": "2019/03/04 08:03:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 75.2,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 105
+  },
+  {
+    "Time": "2019/03/04 08:04:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 75.1,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 95
+  },
+  {
+    "Time": "2019/03/04 08:05:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 74.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 79
+  },
+  {
+    "Time": "2019/03/04 08:06:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 74.6,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 72
+  },
+  {
+    "Time": "2019/03/04 08:07:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 74.4,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 83
+  },
+  {
+    "Time": "2019/03/04 08:08:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 74.3,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 84
+  },
+  {
+    "Time": "2019/03/04 08:09:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 74,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 63
+  },
+  {
+    "Time": "2019/03/04 08:10:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 73.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 72
+  },
+  {
+    "Time": "2019/03/04 08:11:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 73.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 86
+  },
+  {
+    "Time": "2019/03/04 08:12:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 73.7,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 97
+  },
+  {
+    "Time": "2019/03/04 08:13:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 73.5,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 103
+  },
+  {
+    "Time": "2019/03/04 08:14:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 73.3,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 98
+  },
+  {
+    "Time": "2019/03/04 08:15:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 73.4,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 96
+  },
+  {
+    "Time": "2019/03/04 08:16:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 73.1,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 81
+  },
+  {
+    "Time": "2019/03/04 08:17:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 73,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 82
+  },
+  {
+    "Time": "2019/03/04 08:18:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 73,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 83
+  },
+  {
+    "Time": "2019/03/04 08:19:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 94
+  },
+  {
+    "Time": "2019/03/04 08:20:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 72.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 85
+  },
+  {
+    "Time": "2019/03/04 08:21:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 72.6,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 72
+  },
+  {
+    "Time": "2019/03/04 08:22:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 72.3,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 76
+  },
+  {
+    "Time": "2019/03/04 08:23:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 72.1,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 88
+  },
+  {
+    "Time": "2019/03/04 08:24:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 72,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 88
+  },
+  {
+    "Time": "2019/03/04 08:25:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 72,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 92
+  },
+  {
+    "Time": "2019/03/04 08:26:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 71.8,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 97
+  },
+  {
+    "Time": "2019/03/04 08:27:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 71.6,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 103
+  },
+  {
+    "Time": "2019/03/04 08:28:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 71.3,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 112
+  },
+  {
+    "Time": "2019/03/04 08:29:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 71.1,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 139
+  },
+  {
+    "Time": "2019/03/04 08:30:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 70.8,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 151
+  },
+  {
+    "Time": "2019/03/04 08:31:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 70.7,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 142
+  },
+  {
+    "Time": "2019/03/04 08:32:00",
+    "AirTemp(deg C)": 6.5,
+    "Humidity (%)": 70.4,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 142
+  },
+  {
+    "Time": "2019/03/04 08:33:00",
+    "AirTemp(deg C)": 6.5,
+    "Humidity (%)": 70.4,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 137
+  },
+  {
+    "Time": "2019/03/04 08:34:00",
+    "AirTemp(deg C)": 6.5,
+    "Humidity (%)": 70.4,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 150
+  },
+  {
+    "Time": "2019/03/04 08:35:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 136
+  },
+  {
+    "Time": "2019/03/04 08:36:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 110
+  },
+  {
+    "Time": "2019/03/04 08:37:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 114
+  },
+  {
+    "Time": "2019/03/04 08:38:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 69.7,
+    "WindSpd (m.s-1)": 4.1,
+    "Radiation (W.m- )": 136
+  },
+  {
+    "Time": "2019/03/04 08:39:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 69.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 168
+  },
+  {
+    "Time": "2019/03/04 08:40:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 69.7,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 193
+  },
+  {
+    "Time": "2019/03/04 08:41:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 69.4,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 132
+  },
+  {
+    "Time": "2019/03/04 08:42:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 69.1,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 104
+  },
+  {
+    "Time": "2019/03/04 08:43:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 69.1,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 152
+  },
+  {
+    "Time": "2019/03/04 08:44:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 69.1,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 177
+  },
+  {
+    "Time": "2019/03/04 08:45:00",
+    "AirTemp(deg C)": 6.9,
+    "Humidity (%)": 69.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 169
+  },
+  {
+    "Time": "2019/03/04 08:46:00",
+    "AirTemp(deg C)": 6.9,
+    "Humidity (%)": 69.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 210
+  },
+  {
+    "Time": "2019/03/04 08:47:00",
+    "AirTemp(deg C)": 6.9,
+    "Humidity (%)": 68.5,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 239
+  },
+  {
+    "Time": "2019/03/04 08:48:00",
+    "AirTemp(deg C)": 6.9,
+    "Humidity (%)": 68.4,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 250
+  },
+  {
+    "Time": "2019/03/04 08:49:00",
+    "AirTemp(deg C)": 7,
+    "Humidity (%)": 68.1,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 234
+  },
+  {
+    "Time": "2019/03/04 08:50:00",
+    "AirTemp(deg C)": 7,
+    "Humidity (%)": 68,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 253
+  },
+  {
+    "Time": "2019/03/04 08:51:00",
+    "AirTemp(deg C)": 7.1,
+    "Humidity (%)": 68.1,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 232
+  },
+  {
+    "Time": "2019/03/04 08:52:00",
+    "AirTemp(deg C)": 7.1,
+    "Humidity (%)": 68.1,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 230
+  },
+  {
+    "Time": "2019/03/04 08:53:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 68.2,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 274
+  },
+  {
+    "Time": "2019/03/04 08:54:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 68.1,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 263
+  },
+  {
+    "Time": "2019/03/04 08:55:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 68.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 268
+  },
+  {
+    "Time": "2019/03/04 08:56:00",
+    "AirTemp(deg C)": 7.3,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 268
+  },
+  {
+    "Time": "2019/03/04 08:57:00",
+    "AirTemp(deg C)": 7.3,
+    "Humidity (%)": 67,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 289
+  },
+  {
+    "Time": "2019/03/04 08:58:00",
+    "AirTemp(deg C)": 7.3,
+    "Humidity (%)": 67,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 286
+  },
+  {
+    "Time": "2019/03/04 08:59:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 66.7,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 276
+  },
+  {
+    "Time": "2019/03/04 09:00:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 66.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 291
+  },
+  {
+    "Time": "2019/03/04 09:01:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 284
+  },
+  {
+    "Time": "2019/03/04 09:02:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 287
+  },
+  {
+    "Time": "2019/03/04 09:03:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 66.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 289
+  },
+  {
+    "Time": "2019/03/04 09:04:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 66.9,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 291
+  },
+  {
+    "Time": "2019/03/04 09:05:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 65.7,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 326
+  },
+  {
+    "Time": "2019/03/04 09:06:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 321
+  },
+  {
+    "Time": "2019/03/04 09:07:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 64.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 316
+  },
+  {
+    "Time": "2019/03/04 09:08:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 324
+  },
+  {
+    "Time": "2019/03/04 09:09:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 65.2,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 332
+  },
+  {
+    "Time": "2019/03/04 09:10:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 328
+  },
+  {
+    "Time": "2019/03/04 09:11:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 65.5,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 322
+  },
+  {
+    "Time": "2019/03/04 09:12:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 319
+  },
+  {
+    "Time": "2019/03/04 09:13:00",
+    "AirTemp(deg C)": 7.7,
+    "Humidity (%)": 65.2,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 327
+  },
+  {
+    "Time": "2019/03/04 09:14:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 64.3,
+    "WindSpd (m.s-1)": 3.8,
+    "Radiation (W.m- )": 343
+  },
+  {
+    "Time": "2019/03/04 09:15:00",
+    "AirTemp(deg C)": 7.7,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 333
+  },
+  {
+    "Time": "2019/03/04 09:16:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 64.3,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 326
+  },
+  {
+    "Time": "2019/03/04 09:17:00",
+    "AirTemp(deg C)": 7.7,
+    "Humidity (%)": 64.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 122
+  },
+  {
+    "Time": "2019/03/04 09:18:00",
+    "AirTemp(deg C)": 7.7,
+    "Humidity (%)": 64.8,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 346
+  },
+  {
+    "Time": "2019/03/04 09:19:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 335
+  },
+  {
+    "Time": "2019/03/04 09:20:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 328
+  },
+  {
+    "Time": "2019/03/04 09:21:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63.8,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 333
+  },
+  {
+    "Time": "2019/03/04 09:22:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 331
+  },
+  {
+    "Time": "2019/03/04 09:23:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63.9,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 310
+  },
+  {
+    "Time": "2019/03/04 09:24:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 175
+  },
+  {
+    "Time": "2019/03/04 09:25:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 273
+  },
+  {
+    "Time": "2019/03/04 09:26:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 276
+  },
+  {
+    "Time": "2019/03/04 09:27:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 263
+  },
+  {
+    "Time": "2019/03/04 09:28:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.1,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 244
+  },
+  {
+    "Time": "2019/03/04 09:29:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 263
+  },
+  {
+    "Time": "2019/03/04 09:30:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 265
+  },
+  {
+    "Time": "2019/03/04 09:31:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.5,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 269
+  },
+  {
+    "Time": "2019/03/04 09:32:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 261
+  },
+  {
+    "Time": "2019/03/04 09:33:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 4.1,
+    "Radiation (W.m- )": 234
+  },
+  {
+    "Time": "2019/03/04 09:34:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 62.9,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 68
+  },
+  {
+    "Time": "2019/03/04 09:35:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 62.6,
+    "WindSpd (m.s-1)": 4.2,
+    "Radiation (W.m- )": 53
+  },
+  {
+    "Time": "2019/03/04 09:36:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 3.8,
+    "Radiation (W.m- )": 237
+  },
+  {
+    "Time": "2019/03/04 09:37:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 09:38:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 63.9,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 199
+  },
+  {
+    "Time": "2019/03/04 09:39:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 64.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 221
+  },
+  {
+    "Time": "2019/03/04 09:40:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 251
+  },
+  {
+    "Time": "2019/03/04 09:41:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 219
+  },
+  {
+    "Time": "2019/03/04 09:42:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 230
+  },
+  {
+    "Time": "2019/03/04 09:43:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 216
+  },
+  {
+    "Time": "2019/03/04 09:44:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 163
+  },
+  {
+    "Time": "2019/03/04 09:45:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 148
+  },
+  {
+    "Time": "2019/03/04 09:46:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 206
+  },
+  {
+    "Time": "2019/03/04 09:47:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 64.2,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 202
+  },
+  {
+    "Time": "2019/03/04 09:48:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 178
+  },
+  {
+    "Time": "2019/03/04 09:49:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 197
+  },
+  {
+    "Time": "2019/03/04 09:50:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 236
+  },
+  {
+    "Time": "2019/03/04 09:51:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 135
+  },
+  {
+    "Time": "2019/03/04 09:52:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 63.1,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 161
+  },
+  {
+    "Time": "2019/03/04 09:53:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 125
+  },
+  {
+    "Time": "2019/03/04 09:54:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 132
+  },
+  {
+    "Time": "2019/03/04 09:55:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 64.2,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 98
+  },
+  {
+    "Time": "2019/03/04 09:56:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 123
+  },
+  {
+    "Time": "2019/03/04 09:57:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 145
+  },
+  {
+    "Time": "2019/03/04 09:58:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 129
+  },
+  {
+    "Time": "2019/03/04 09:59:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 151
+  },
+  {
+    "Time": "2019/03/04 10:00:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 202
+  },
+  {
+    "Time": "2019/03/04 10:01:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 4.2,
+    "Radiation (W.m- )": 135
+  },
+  {
+    "Time": "2019/03/04 10:02:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 107
+  },
+  {
+    "Time": "2019/03/04 10:03:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 113
+  },
+  {
+    "Time": "2019/03/04 10:04:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 102
+  },
+  {
+    "Time": "2019/03/04 10:05:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 122
+  },
+  {
+    "Time": "2019/03/04 10:06:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 147
+  },
+  {
+    "Time": "2019/03/04 10:07:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 171
+  },
+  {
+    "Time": "2019/03/04 10:08:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 163
+  },
+  {
+    "Time": "2019/03/04 10:09:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 200
+  },
+  {
+    "Time": "2019/03/04 10:10:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 3.8,
+    "Radiation (W.m- )": 254
+  },
+  {
+    "Time": "2019/03/04 10:11:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 272
+  },
+  {
+    "Time": "2019/03/04 10:12:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 266
+  },
+  {
+    "Time": "2019/03/04 10:13:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 139
+  },
+  {
+    "Time": "2019/03/04 10:14:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.1,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 109
+  },
+  {
+    "Time": "2019/03/04 10:15:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 167
+  },
+  {
+    "Time": "2019/03/04 10:16:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 132
+  },
+  {
+    "Time": "2019/03/04 10:17:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 140
+  },
+  {
+    "Time": "2019/03/04 10:18:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 115
+  },
+  {
+    "Time": "2019/03/04 10:19:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 173
+  },
+  {
+    "Time": "2019/03/04 10:20:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 174
+  },
+  {
+    "Time": "2019/03/04 10:21:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 189
+  },
+  {
+    "Time": "2019/03/04 10:22:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 207
+  },
+  {
+    "Time": "2019/03/04 10:23:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 229
+  },
+  {
+    "Time": "2019/03/04 10:24:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 310
+  },
+  {
+    "Time": "2019/03/04 10:25:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.9,
+    "Radiation (W.m- )": 241
+  },
+  {
+    "Time": "2019/03/04 10:26:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 248
+  },
+  {
+    "Time": "2019/03/04 10:27:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 156
+  },
+  {
+    "Time": "2019/03/04 10:28:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 209
+  },
+  {
+    "Time": "2019/03/04 10:29:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 281
+  },
+  {
+    "Time": "2019/03/04 10:30:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 187
+  },
+  {
+    "Time": "2019/03/04 10:31:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 176
+  },
+  {
+    "Time": "2019/03/04 10:32:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 216
+  },
+  {
+    "Time": "2019/03/04 10:33:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 302
+  },
+  {
+    "Time": "2019/03/04 10:34:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 304
+  },
+  {
+    "Time": "2019/03/04 10:35:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 214
+  },
+  {
+    "Time": "2019/03/04 10:36:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 206
+  },
+  {
+    "Time": "2019/03/04 10:37:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 189
+  },
+  {
+    "Time": "2019/03/04 10:38:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 182
+  },
+  {
+    "Time": "2019/03/04 10:39:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 219
+  },
+  {
+    "Time": "2019/03/04 10:40:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 191
+  },
+  {
+    "Time": "2019/03/04 10:41:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 170
+  },
+  {
+    "Time": "2019/03/04 10:42:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 176
+  },
+  {
+    "Time": "2019/03/04 10:43:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 60.9,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 180
+  },
+  {
+    "Time": "2019/03/04 10:44:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 236
+  },
+  {
+    "Time": "2019/03/04 10:45:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 220
+  },
+  {
+    "Time": "2019/03/04 10:46:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 160
+  },
+  {
+    "Time": "2019/03/04 10:47:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 156
+  },
+  {
+    "Time": "2019/03/04 10:48:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 168
+  },
+  {
+    "Time": "2019/03/04 10:49:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 61.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 254
+  },
+  {
+    "Time": "2019/03/04 10:50:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 287
+  },
+  {
+    "Time": "2019/03/04 10:51:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 281
+  },
+  {
+    "Time": "2019/03/04 10:52:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 303
+  },
+  {
+    "Time": "2019/03/04 10:53:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 392
+  },
+  {
+    "Time": "2019/03/04 10:54:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 323
+  },
+  {
+    "Time": "2019/03/04 10:55:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 308
+  },
+  {
+    "Time": "2019/03/04 10:56:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 241
+  },
+  {
+    "Time": "2019/03/04 10:57:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 289
+  },
+  {
+    "Time": "2019/03/04 10:58:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 252
+  },
+  {
+    "Time": "2019/03/04 10:59:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 262
+  },
+  {
+    "Time": "2019/03/04 11:00:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 262
+  },
+  {
+    "Time": "2019/03/04 11:01:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 278
+  },
+  {
+    "Time": "2019/03/04 11:02:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 277
+  },
+  {
+    "Time": "2019/03/04 11:03:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 251
+  },
+  {
+    "Time": "2019/03/04 11:04:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 229
+  },
+  {
+    "Time": "2019/03/04 11:05:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 241
+  },
+  {
+    "Time": "2019/03/04 11:06:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 242
+  },
+  {
+    "Time": "2019/03/04 11:07:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 232
+  },
+  {
+    "Time": "2019/03/04 11:08:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 11:09:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 239
+  },
+  {
+    "Time": "2019/03/04 11:10:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 217
+  },
+  {
+    "Time": "2019/03/04 11:11:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 180
+  },
+  {
+    "Time": "2019/03/04 11:12:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 171
+  },
+  {
+    "Time": "2019/03/04 11:13:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 168
+  },
+  {
+    "Time": "2019/03/04 11:14:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 174
+  },
+  {
+    "Time": "2019/03/04 11:15:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 198
+  },
+  {
+    "Time": "2019/03/04 11:16:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 217
+  },
+  {
+    "Time": "2019/03/04 11:17:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 249
+  },
+  {
+    "Time": "2019/03/04 11:18:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 3.8,
+    "Radiation (W.m- )": 204
+  },
+  {
+    "Time": "2019/03/04 11:19:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 191
+  },
+  {
+    "Time": "2019/03/04 11:20:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 199
+  },
+  {
+    "Time": "2019/03/04 11:21:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 253
+  },
+  {
+    "Time": "2019/03/04 11:22:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 268
+  },
+  {
+    "Time": "2019/03/04 11:23:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 263
+  },
+  {
+    "Time": "2019/03/04 11:24:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 211
+  },
+  {
+    "Time": "2019/03/04 11:25:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 202
+  },
+  {
+    "Time": "2019/03/04 11:26:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 244
+  },
+  {
+    "Time": "2019/03/04 11:27:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 252
+  },
+  {
+    "Time": "2019/03/04 11:28:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 246
+  },
+  {
+    "Time": "2019/03/04 11:29:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 252
+  },
+  {
+    "Time": "2019/03/04 11:30:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 264
+  },
+  {
+    "Time": "2019/03/04 11:31:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 240
+  },
+  {
+    "Time": "2019/03/04 11:32:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 233
+  },
+  {
+    "Time": "2019/03/04 11:33:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 219
+  },
+  {
+    "Time": "2019/03/04 11:34:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 205
+  },
+  {
+    "Time": "2019/03/04 11:35:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 208
+  },
+  {
+    "Time": "2019/03/04 11:36:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 227
+  },
+  {
+    "Time": "2019/03/04 11:37:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 4.5,
+    "Radiation (W.m- )": 256
+  },
+  {
+    "Time": "2019/03/04 11:38:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 315
+  },
+  {
+    "Time": "2019/03/04 11:39:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 312
+  },
+  {
+    "Time": "2019/03/04 11:40:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 4,
+    "Radiation (W.m- )": 347
+  },
+  {
+    "Time": "2019/03/04 11:41:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 422
+  },
+  {
+    "Time": "2019/03/04 11:42:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 411
+  },
+  {
+    "Time": "2019/03/04 11:43:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 386
+  },
+  {
+    "Time": "2019/03/04 11:44:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 4.3,
+    "Radiation (W.m- )": 459
+  },
+  {
+    "Time": "2019/03/04 11:45:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 58.4,
+    "WindSpd (m.s-1)": 4.1,
+    "Radiation (W.m- )": 338
+  },
+  {
+    "Time": "2019/03/04 11:46:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 363
+  },
+  {
+    "Time": "2019/03/04 11:47:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 4,
+    "Radiation (W.m- )": 277
+  },
+  {
+    "Time": "2019/03/04 11:48:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 265
+  },
+  {
+    "Time": "2019/03/04 11:49:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.2,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 287
+  },
+  {
+    "Time": "2019/03/04 11:50:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.3,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 308
+  },
+  {
+    "Time": "2019/03/04 11:51:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 332
+  },
+  {
+    "Time": "2019/03/04 11:52:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 304
+  },
+  {
+    "Time": "2019/03/04 11:53:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 239
+  },
+  {
+    "Time": "2019/03/04 11:54:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 226
+  },
+  {
+    "Time": "2019/03/04 11:55:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 233
+  },
+  {
+    "Time": "2019/03/04 11:56:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 4,
+    "Radiation (W.m- )": 211
+  },
+  {
+    "Time": "2019/03/04 11:57:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 265
+  },
+  {
+    "Time": "2019/03/04 11:58:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 313
+  },
+  {
+    "Time": "2019/03/04 11:59:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 316
+  },
+  {
+    "Time": "2019/03/04 12:00:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 307
+  },
+  {
+    "Time": "2019/03/04 12:01:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 250
+  },
+  {
+    "Time": "2019/03/04 12:02:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 204
+  },
+  {
+    "Time": "2019/03/04 12:03:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 4.6,
+    "Radiation (W.m- )": 195
+  },
+  {
+    "Time": "2019/03/04 12:04:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 215
+  },
+  {
+    "Time": "2019/03/04 12:05:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 222
+  },
+  {
+    "Time": "2019/03/04 12:06:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 227
+  },
+  {
+    "Time": "2019/03/04 12:07:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 207
+  },
+  {
+    "Time": "2019/03/04 12:08:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 209
+  },
+  {
+    "Time": "2019/03/04 12:09:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 210
+  },
+  {
+    "Time": "2019/03/04 12:10:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 219
+  },
+  {
+    "Time": "2019/03/04 12:11:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 213
+  },
+  {
+    "Time": "2019/03/04 12:12:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 225
+  },
+  {
+    "Time": "2019/03/04 12:13:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 223
+  },
+  {
+    "Time": "2019/03/04 12:14:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 217
+  },
+  {
+    "Time": "2019/03/04 12:15:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 215
+  },
+  {
+    "Time": "2019/03/04 12:16:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 61.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 12:17:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 213
+  },
+  {
+    "Time": "2019/03/04 12:18:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 61.5,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 12:19:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 12:20:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 208
+  },
+  {
+    "Time": "2019/03/04 12:21:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 12:22:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 211
+  },
+  {
+    "Time": "2019/03/04 12:23:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 12:24:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 210
+  },
+  {
+    "Time": "2019/03/04 12:25:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 206
+  },
+  {
+    "Time": "2019/03/04 12:26:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 208
+  },
+  {
+    "Time": "2019/03/04 12:27:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 211
+  },
+  {
+    "Time": "2019/03/04 12:28:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 211
+  },
+  {
+    "Time": "2019/03/04 12:29:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 213
+  },
+  {
+    "Time": "2019/03/04 12:30:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 210
+  },
+  {
+    "Time": "2019/03/04 12:31:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 203
+  },
+  {
+    "Time": "2019/03/04 12:32:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 193
+  },
+  {
+    "Time": "2019/03/04 12:33:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 194
+  },
+  {
+    "Time": "2019/03/04 12:34:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 198
+  },
+  {
+    "Time": "2019/03/04 12:35:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 245
+  },
+  {
+    "Time": "2019/03/04 12:36:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 207
+  },
+  {
+    "Time": "2019/03/04 12:37:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 204
+  },
+  {
+    "Time": "2019/03/04 12:38:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 196
+  },
+  {
+    "Time": "2019/03/04 12:39:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 196
+  },
+  {
+    "Time": "2019/03/04 12:40:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 209
+  },
+  {
+    "Time": "2019/03/04 12:41:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 221
+  },
+  {
+    "Time": "2019/03/04 12:42:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 214
+  },
+  {
+    "Time": "2019/03/04 12:43:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 206
+  },
+  {
+    "Time": "2019/03/04 12:44:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 185
+  },
+  {
+    "Time": "2019/03/04 12:45:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 200
+  },
+  {
+    "Time": "2019/03/04 12:46:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 166
+  },
+  {
+    "Time": "2019/03/04 12:47:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 166
+  },
+  {
+    "Time": "2019/03/04 12:48:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 58.2,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 171
+  },
+  {
+    "Time": "2019/03/04 12:49:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 58,
+    "WindSpd (m.s-1)": 3.6,
+    "Radiation (W.m- )": 174
+  },
+  {
+    "Time": "2019/03/04 12:50:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 58.1,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 209
+  },
+  {
+    "Time": "2019/03/04 12:51:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 212
+  },
+  {
+    "Time": "2019/03/04 12:52:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 219
+  },
+  {
+    "Time": "2019/03/04 12:53:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 193
+  },
+  {
+    "Time": "2019/03/04 12:54:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 193
+  },
+  {
+    "Time": "2019/03/04 12:55:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 161
+  },
+  {
+    "Time": "2019/03/04 12:56:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 135
+  },
+  {
+    "Time": "2019/03/04 12:57:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.4,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 133
+  },
+  {
+    "Time": "2019/03/04 12:58:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 12:59:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 167
+  },
+  {
+    "Time": "2019/03/04 13:00:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 182
+  },
+  {
+    "Time": "2019/03/04 13:01:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 180
+  },
+  {
+    "Time": "2019/03/04 13:02:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 152
+  },
+  {
+    "Time": "2019/03/04 13:03:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 199
+  },
+  {
+    "Time": "2019/03/04 13:04:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 169
+  },
+  {
+    "Time": "2019/03/04 13:05:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 183
+  },
+  {
+    "Time": "2019/03/04 13:06:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 180
+  },
+  {
+    "Time": "2019/03/04 13:07:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 191
+  },
+  {
+    "Time": "2019/03/04 13:08:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 197
+  },
+  {
+    "Time": "2019/03/04 13:09:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 197
+  },
+  {
+    "Time": "2019/03/04 13:10:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 58.2,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 207
+  },
+  {
+    "Time": "2019/03/04 13:11:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 58.3,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 201
+  },
+  {
+    "Time": "2019/03/04 13:12:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 57.9,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 207
+  },
+  {
+    "Time": "2019/03/04 13:13:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 56.8,
+    "WindSpd (m.s-1)": 4.1,
+    "Radiation (W.m- )": 229
+  },
+  {
+    "Time": "2019/03/04 13:14:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 57.3,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 194
+  },
+  {
+    "Time": "2019/03/04 13:15:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 57.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 209
+  },
+  {
+    "Time": "2019/03/04 13:16:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 57.5,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 160
+  },
+  {
+    "Time": "2019/03/04 13:17:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 56.4,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 151
+  },
+  {
+    "Time": "2019/03/04 13:18:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 55.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 142
+  },
+  {
+    "Time": "2019/03/04 13:19:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 55.8,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 170
+  },
+  {
+    "Time": "2019/03/04 13:20:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 56.1,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 120
+  },
+  {
+    "Time": "2019/03/04 13:21:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 55.4,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 114
+  },
+  {
+    "Time": "2019/03/04 13:22:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 54.5,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 106
+  },
+  {
+    "Time": "2019/03/04 13:23:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 54.6,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 142
+  },
+  {
+    "Time": "2019/03/04 13:24:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 54.4,
+    "WindSpd (m.s-1)": 4,
+    "Radiation (W.m- )": 229
+  },
+  {
+    "Time": "2019/03/04 13:25:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 55.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 106
+  },
+  {
+    "Time": "2019/03/04 13:26:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 55.4,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 99
+  },
+  {
+    "Time": "2019/03/04 13:27:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 55.5,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 117
+  },
+  {
+    "Time": "2019/03/04 13:28:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 55.2,
+    "WindSpd (m.s-1)": 3.5,
+    "Radiation (W.m- )": 175
+  },
+  {
+    "Time": "2019/03/04 13:29:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 54.8,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 173
+  },
+  {
+    "Time": "2019/03/04 13:30:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 54.8,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 162
+  },
+  {
+    "Time": "2019/03/04 13:31:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 55.1,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 167
+  },
+  {
+    "Time": "2019/03/04 13:32:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 54.9,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 185
+  },
+  {
+    "Time": "2019/03/04 13:33:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 55.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 174
+  },
+  {
+    "Time": "2019/03/04 13:34:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 55.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 184
+  },
+  {
+    "Time": "2019/03/04 13:35:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 55.3,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 206
+  },
+  {
+    "Time": "2019/03/04 13:36:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 55.9,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 222
+  },
+  {
+    "Time": "2019/03/04 13:37:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 55.3,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 221
+  },
+  {
+    "Time": "2019/03/04 13:38:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 55.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 186
+  },
+  {
+    "Time": "2019/03/04 13:39:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 55.4,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 145
+  },
+  {
+    "Time": "2019/03/04 13:40:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 55.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 13:41:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 55,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 13:42:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 55.2,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 125
+  },
+  {
+    "Time": "2019/03/04 13:43:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 55.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 115
+  },
+  {
+    "Time": "2019/03/04 13:44:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 56.1,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 103
+  },
+  {
+    "Time": "2019/03/04 13:45:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 55.9,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 102
+  },
+  {
+    "Time": "2019/03/04 13:46:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 56,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 131
+  },
+  {
+    "Time": "2019/03/04 13:47:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 56.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 160
+  },
+  {
+    "Time": "2019/03/04 13:48:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 57.5,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 178
+  },
+  {
+    "Time": "2019/03/04 13:49:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 57.1,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 194
+  },
+  {
+    "Time": "2019/03/04 13:50:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 57.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 183
+  },
+  {
+    "Time": "2019/03/04 13:51:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 56.6,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 162
+  },
+  {
+    "Time": "2019/03/04 13:52:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 57.2,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 145
+  },
+  {
+    "Time": "2019/03/04 13:53:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 56.6,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 158
+  },
+  {
+    "Time": "2019/03/04 13:54:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 57.3,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 185
+  },
+  {
+    "Time": "2019/03/04 13:55:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 58.2,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 194
+  },
+  {
+    "Time": "2019/03/04 13:56:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 58.4,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 198
+  },
+  {
+    "Time": "2019/03/04 13:57:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 193
+  },
+  {
+    "Time": "2019/03/04 13:58:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 181
+  },
+  {
+    "Time": "2019/03/04 13:59:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 168
+  },
+  {
+    "Time": "2019/03/04 14:00:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 147
+  },
+  {
+    "Time": "2019/03/04 14:01:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 126
+  },
+  {
+    "Time": "2019/03/04 14:02:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 116
+  },
+  {
+    "Time": "2019/03/04 14:03:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 120
+  },
+  {
+    "Time": "2019/03/04 14:04:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 57.8,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 148
+  },
+  {
+    "Time": "2019/03/04 14:05:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 57.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 163
+  },
+  {
+    "Time": "2019/03/04 14:06:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 57.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 137
+  },
+  {
+    "Time": "2019/03/04 14:07:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 57.8,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 122
+  },
+  {
+    "Time": "2019/03/04 14:08:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.1,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 120
+  },
+  {
+    "Time": "2019/03/04 14:09:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.4,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 124
+  },
+  {
+    "Time": "2019/03/04 14:10:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 136
+  },
+  {
+    "Time": "2019/03/04 14:11:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.3,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:12:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 145
+  },
+  {
+    "Time": "2019/03/04 14:13:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 148
+  },
+  {
+    "Time": "2019/03/04 14:14:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 147
+  },
+  {
+    "Time": "2019/03/04 14:15:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 143
+  },
+  {
+    "Time": "2019/03/04 14:16:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:17:00",
+    "AirTemp(deg C)": 10.2,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 145
+  },
+  {
+    "Time": "2019/03/04 14:18:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 147
+  },
+  {
+    "Time": "2019/03/04 14:19:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:20:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 148
+  },
+  {
+    "Time": "2019/03/04 14:21:00",
+    "AirTemp(deg C)": 10.1,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:22:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 149
+  },
+  {
+    "Time": "2019/03/04 14:23:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:24:00",
+    "AirTemp(deg C)": 10,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:25:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 144
+  },
+  {
+    "Time": "2019/03/04 14:26:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 142
+  },
+  {
+    "Time": "2019/03/04 14:27:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 141
+  },
+  {
+    "Time": "2019/03/04 14:28:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 14:29:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 14:30:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 14:31:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 141
+  },
+  {
+    "Time": "2019/03/04 14:32:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 139
+  },
+  {
+    "Time": "2019/03/04 14:33:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 140
+  },
+  {
+    "Time": "2019/03/04 14:34:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 61.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 143
+  },
+  {
+    "Time": "2019/03/04 14:35:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 62,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 149
+  },
+  {
+    "Time": "2019/03/04 14:36:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 62,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 153
+  },
+  {
+    "Time": "2019/03/04 14:37:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 165
+  },
+  {
+    "Time": "2019/03/04 14:38:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 174
+  },
+  {
+    "Time": "2019/03/04 14:39:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 62.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 185
+  },
+  {
+    "Time": "2019/03/04 14:40:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 196
+  },
+  {
+    "Time": "2019/03/04 14:41:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 208
+  },
+  {
+    "Time": "2019/03/04 14:42:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 227
+  },
+  {
+    "Time": "2019/03/04 14:43:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 237
+  },
+  {
+    "Time": "2019/03/04 14:44:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 223
+  },
+  {
+    "Time": "2019/03/04 14:45:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.2,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 213
+  },
+  {
+    "Time": "2019/03/04 14:46:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 211
+  },
+  {
+    "Time": "2019/03/04 14:47:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.2,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 177
+  },
+  {
+    "Time": "2019/03/04 14:48:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 221
+  },
+  {
+    "Time": "2019/03/04 14:49:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 63.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 165
+  },
+  {
+    "Time": "2019/03/04 14:50:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 195
+  },
+  {
+    "Time": "2019/03/04 14:51:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 197
+  },
+  {
+    "Time": "2019/03/04 14:52:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 217
+  },
+  {
+    "Time": "2019/03/04 14:53:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.6,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 190
+  },
+  {
+    "Time": "2019/03/04 14:54:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 146
+  },
+  {
+    "Time": "2019/03/04 14:55:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 131
+  },
+  {
+    "Time": "2019/03/04 14:56:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 148
+  },
+  {
+    "Time": "2019/03/04 14:57:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.9,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 145
+  },
+  {
+    "Time": "2019/03/04 14:58:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 128
+  },
+  {
+    "Time": "2019/03/04 14:59:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 118
+  },
+  {
+    "Time": "2019/03/04 15:00:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.6,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 148
+  },
+  {
+    "Time": "2019/03/04 15:01:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 151
+  },
+  {
+    "Time": "2019/03/04 15:02:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 64.8,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 139
+  },
+  {
+    "Time": "2019/03/04 15:03:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 65.3,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 143
+  },
+  {
+    "Time": "2019/03/04 15:04:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 65.7,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 166
+  },
+  {
+    "Time": "2019/03/04 15:05:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 65.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 204
+  },
+  {
+    "Time": "2019/03/04 15:06:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 65.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 209
+  },
+  {
+    "Time": "2019/03/04 15:07:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 66.1,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 188
+  },
+  {
+    "Time": "2019/03/04 15:08:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 66.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 153
+  },
+  {
+    "Time": "2019/03/04 15:09:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 66.1,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 135
+  },
+  {
+    "Time": "2019/03/04 15:10:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 65.7,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 121
+  },
+  {
+    "Time": "2019/03/04 15:11:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 65.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 126
+  },
+  {
+    "Time": "2019/03/04 15:12:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 152
+  },
+  {
+    "Time": "2019/03/04 15:13:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 138
+  },
+  {
+    "Time": "2019/03/04 15:14:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 125
+  },
+  {
+    "Time": "2019/03/04 15:15:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 135
+  },
+  {
+    "Time": "2019/03/04 15:16:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 165
+  },
+  {
+    "Time": "2019/03/04 15:17:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 63.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 143
+  },
+  {
+    "Time": "2019/03/04 15:18:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 63.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 134
+  },
+  {
+    "Time": "2019/03/04 15:19:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 63.9,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 135
+  },
+  {
+    "Time": "2019/03/04 15:20:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 130
+  },
+  {
+    "Time": "2019/03/04 15:21:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 63.6,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 129
+  },
+  {
+    "Time": "2019/03/04 15:22:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 62.9,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 127
+  },
+  {
+    "Time": "2019/03/04 15:23:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 62.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 130
+  },
+  {
+    "Time": "2019/03/04 15:24:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 125
+  },
+  {
+    "Time": "2019/03/04 15:25:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 112
+  },
+  {
+    "Time": "2019/03/04 15:26:00",
+    "AirTemp(deg C)": 9.9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 98
+  },
+  {
+    "Time": "2019/03/04 15:27:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 86
+  },
+  {
+    "Time": "2019/03/04 15:28:00",
+    "AirTemp(deg C)": 9.8,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 77
+  },
+  {
+    "Time": "2019/03/04 15:29:00",
+    "AirTemp(deg C)": 9.7,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 74
+  },
+  {
+    "Time": "2019/03/04 15:30:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 70
+  },
+  {
+    "Time": "2019/03/04 15:31:00",
+    "AirTemp(deg C)": 9.6,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 72
+  },
+  {
+    "Time": "2019/03/04 15:32:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 69
+  },
+  {
+    "Time": "2019/03/04 15:33:00",
+    "AirTemp(deg C)": 9.5,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 72
+  },
+  {
+    "Time": "2019/03/04 15:34:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 71
+  },
+  {
+    "Time": "2019/03/04 15:35:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 76
+  },
+  {
+    "Time": "2019/03/04 15:36:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 86
+  },
+  {
+    "Time": "2019/03/04 15:37:00",
+    "AirTemp(deg C)": 9.4,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 78
+  },
+  {
+    "Time": "2019/03/04 15:38:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.9,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 93
+  },
+  {
+    "Time": "2019/03/04 15:39:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 94
+  },
+  {
+    "Time": "2019/03/04 15:40:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 61.6,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 84
+  },
+  {
+    "Time": "2019/03/04 15:41:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 83
+  },
+  {
+    "Time": "2019/03/04 15:42:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 85
+  },
+  {
+    "Time": "2019/03/04 15:43:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.2,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 82
+  },
+  {
+    "Time": "2019/03/04 15:44:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.5,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 84
+  },
+  {
+    "Time": "2019/03/04 15:45:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 77
+  },
+  {
+    "Time": "2019/03/04 15:46:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 69
+  },
+  {
+    "Time": "2019/03/04 15:47:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.7,
+    "WindSpd (m.s-1)": 1,
+    "Radiation (W.m- )": 68
+  },
+  {
+    "Time": "2019/03/04 15:48:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.8,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 62
+  },
+  {
+    "Time": "2019/03/04 15:49:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 52
+  },
+  {
+    "Time": "2019/03/04 15:50:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 40
+  },
+  {
+    "Time": "2019/03/04 15:51:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63.2,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 32
+  },
+  {
+    "Time": "2019/03/04 15:52:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63.1,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 33
+  },
+  {
+    "Time": "2019/03/04 15:53:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.5,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 37
+  },
+  {
+    "Time": "2019/03/04 15:54:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 39
+  },
+  {
+    "Time": "2019/03/04 15:55:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 41
+  },
+  {
+    "Time": "2019/03/04 15:56:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 43
+  },
+  {
+    "Time": "2019/03/04 15:57:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 40
+  },
+  {
+    "Time": "2019/03/04 15:58:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 39
+  },
+  {
+    "Time": "2019/03/04 15:59:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 44
+  },
+  {
+    "Time": "2019/03/04 16:00:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 63.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 48
+  },
+  {
+    "Time": "2019/03/04 16:01:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 16:02:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 42
+  },
+  {
+    "Time": "2019/03/04 16:03:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 40
+  },
+  {
+    "Time": "2019/03/04 16:04:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 41
+  },
+  {
+    "Time": "2019/03/04 16:05:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 16:06:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 53
+  },
+  {
+    "Time": "2019/03/04 16:07:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 58
+  },
+  {
+    "Time": "2019/03/04 16:08:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 60
+  },
+  {
+    "Time": "2019/03/04 16:09:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 59
+  },
+  {
+    "Time": "2019/03/04 16:10:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 61
+  },
+  {
+    "Time": "2019/03/04 16:11:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 3.8,
+    "Radiation (W.m- )": 58
+  },
+  {
+    "Time": "2019/03/04 16:12:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.5,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 65
+  },
+  {
+    "Time": "2019/03/04 16:13:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 76
+  },
+  {
+    "Time": "2019/03/04 16:14:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 85
+  },
+  {
+    "Time": "2019/03/04 16:15:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 85
+  },
+  {
+    "Time": "2019/03/04 16:16:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 84
+  },
+  {
+    "Time": "2019/03/04 16:17:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 78
+  },
+  {
+    "Time": "2019/03/04 16:18:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 69
+  },
+  {
+    "Time": "2019/03/04 16:19:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 61
+  },
+  {
+    "Time": "2019/03/04 16:20:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 54
+  },
+  {
+    "Time": "2019/03/04 16:21:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 51
+  },
+  {
+    "Time": "2019/03/04 16:22:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 51
+  },
+  {
+    "Time": "2019/03/04 16:23:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 50
+  },
+  {
+    "Time": "2019/03/04 16:24:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 61.5,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 49
+  },
+  {
+    "Time": "2019/03/04 16:25:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 61.8,
+    "WindSpd (m.s-1)": 3.8,
+    "Radiation (W.m- )": 47
+  },
+  {
+    "Time": "2019/03/04 16:26:00",
+    "AirTemp(deg C)": 9.3,
+    "Humidity (%)": 61.9,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 47
+  },
+  {
+    "Time": "2019/03/04 16:27:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.2,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 16:28:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.5,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 51
+  },
+  {
+    "Time": "2019/03/04 16:29:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 62.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 57
+  },
+  {
+    "Time": "2019/03/04 16:30:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 55
+  },
+  {
+    "Time": "2019/03/04 16:31:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 48
+  },
+  {
+    "Time": "2019/03/04 16:32:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 43
+  },
+  {
+    "Time": "2019/03/04 16:33:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 63.9,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 45
+  },
+  {
+    "Time": "2019/03/04 16:34:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 57
+  },
+  {
+    "Time": "2019/03/04 16:35:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 48
+  },
+  {
+    "Time": "2019/03/04 16:36:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.2,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 50
+  },
+  {
+    "Time": "2019/03/04 16:37:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 47
+  },
+  {
+    "Time": "2019/03/04 16:38:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 42
+  },
+  {
+    "Time": "2019/03/04 16:39:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 16:40:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 50
+  },
+  {
+    "Time": "2019/03/04 16:41:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 51
+  },
+  {
+    "Time": "2019/03/04 16:42:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 16:43:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.9,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 42
+  },
+  {
+    "Time": "2019/03/04 16:44:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 64.9,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 37
+  },
+  {
+    "Time": "2019/03/04 16:45:00",
+    "AirTemp(deg C)": 9.2,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 32
+  },
+  {
+    "Time": "2019/03/04 16:46:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 65.1,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 26
+  },
+  {
+    "Time": "2019/03/04 16:47:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 65.5,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 26
+  },
+  {
+    "Time": "2019/03/04 16:48:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 65.5,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 29
+  },
+  {
+    "Time": "2019/03/04 16:49:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 65.6,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 39
+  },
+  {
+    "Time": "2019/03/04 16:50:00",
+    "AirTemp(deg C)": 9.1,
+    "Humidity (%)": 66,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 59
+  },
+  {
+    "Time": "2019/03/04 16:51:00",
+    "AirTemp(deg C)": 9,
+    "Humidity (%)": 65.9,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 88
+  },
+  {
+    "Time": "2019/03/04 16:52:00",
+    "AirTemp(deg C)": 8.9,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 4.3,
+    "Radiation (W.m- )": 104
+  },
+  {
+    "Time": "2019/03/04 16:53:00",
+    "AirTemp(deg C)": 8.8,
+    "Humidity (%)": 64.6,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 108
+  },
+  {
+    "Time": "2019/03/04 16:54:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 64.3,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 115
+  },
+  {
+    "Time": "2019/03/04 16:55:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 64.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 119
+  },
+  {
+    "Time": "2019/03/04 16:56:00",
+    "AirTemp(deg C)": 8.7,
+    "Humidity (%)": 64.6,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 109
+  },
+  {
+    "Time": "2019/03/04 16:57:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 94
+  },
+  {
+    "Time": "2019/03/04 16:58:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 81
+  },
+  {
+    "Time": "2019/03/04 16:59:00",
+    "AirTemp(deg C)": 8.6,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 70
+  },
+  {
+    "Time": "2019/03/04 17:00:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 65.7,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 60
+  },
+  {
+    "Time": "2019/03/04 17:01:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 66.4,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 68
+  },
+  {
+    "Time": "2019/03/04 17:02:00",
+    "AirTemp(deg C)": 8.5,
+    "Humidity (%)": 67,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 69
+  },
+  {
+    "Time": "2019/03/04 17:03:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 57
+  },
+  {
+    "Time": "2019/03/04 17:04:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 67.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 54
+  },
+  {
+    "Time": "2019/03/04 17:05:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 68.4,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 50
+  },
+  {
+    "Time": "2019/03/04 17:06:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 68.7,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 50
+  },
+  {
+    "Time": "2019/03/04 17:07:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 69,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 51
+  },
+  {
+    "Time": "2019/03/04 17:08:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 69.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 47
+  },
+  {
+    "Time": "2019/03/04 17:09:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 69.7,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 46
+  },
+  {
+    "Time": "2019/03/04 17:10:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 69.8,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 41
+  },
+  {
+    "Time": "2019/03/04 17:11:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 69.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 42
+  },
+  {
+    "Time": "2019/03/04 17:12:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 38
+  },
+  {
+    "Time": "2019/03/04 17:13:00",
+    "AirTemp(deg C)": 8.4,
+    "Humidity (%)": 70,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 37
+  },
+  {
+    "Time": "2019/03/04 17:14:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 37
+  },
+  {
+    "Time": "2019/03/04 17:15:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 30
+  },
+  {
+    "Time": "2019/03/04 17:16:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.5,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 24
+  },
+  {
+    "Time": "2019/03/04 17:17:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 20
+  },
+  {
+    "Time": "2019/03/04 17:18:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 18
+  },
+  {
+    "Time": "2019/03/04 17:19:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 17
+  },
+  {
+    "Time": "2019/03/04 17:20:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 70.7,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 16
+  },
+  {
+    "Time": "2019/03/04 17:21:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 70.7,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 14
+  },
+  {
+    "Time": "2019/03/04 17:22:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 70.9,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 13
+  },
+  {
+    "Time": "2019/03/04 17:23:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 70.5,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 12
+  },
+  {
+    "Time": "2019/03/04 17:24:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 69.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 11
+  },
+  {
+    "Time": "2019/03/04 17:25:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 69.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 10
+  },
+  {
+    "Time": "2019/03/04 17:26:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 68.9,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 9
+  },
+  {
+    "Time": "2019/03/04 17:27:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 68.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 8
+  },
+  {
+    "Time": "2019/03/04 17:28:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 68.4,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 7
+  },
+  {
+    "Time": "2019/03/04 17:29:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 68,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 7
+  },
+  {
+    "Time": "2019/03/04 17:30:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 67.7,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 6
+  },
+  {
+    "Time": "2019/03/04 17:31:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 67.3,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 5
+  },
+  {
+    "Time": "2019/03/04 17:32:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 5
+  },
+  {
+    "Time": "2019/03/04 17:33:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 66.6,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 4
+  },
+  {
+    "Time": "2019/03/04 17:34:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 66,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 3
+  },
+  {
+    "Time": "2019/03/04 17:35:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 65.5,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 3
+  },
+  {
+    "Time": "2019/03/04 17:36:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 65,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 3
+  },
+  {
+    "Time": "2019/03/04 17:37:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 2
+  },
+  {
+    "Time": "2019/03/04 17:38:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 64.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 2
+  },
+  {
+    "Time": "2019/03/04 17:39:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 2
+  },
+  {
+    "Time": "2019/03/04 17:40:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 63.9,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 2
+  },
+  {
+    "Time": "2019/03/04 17:41:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 63.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 2
+  },
+  {
+    "Time": "2019/03/04 17:42:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 2
+  },
+  {
+    "Time": "2019/03/04 17:43:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 63,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:44:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 62.9,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:45:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 62.7,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:46:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 61.6,
+    "WindSpd (m.s-1)": 3.4,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:47:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:48:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:49:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 3.7,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:50:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 1
+  },
+  {
+    "Time": "2019/03/04 17:51:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:52:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:53:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:54:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:55:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:56:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.4,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:57:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.3,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:58:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.5,
+    "WindSpd (m.s-1)": 2.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 17:59:00",
+    "AirTemp(deg C)": 8.3,
+    "Humidity (%)": 58.6,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:00:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 58.7,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:01:00",
+    "AirTemp(deg C)": 8.2,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:02:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:03:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:04:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:05:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:06:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:07:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:08:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:09:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:10:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:11:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:12:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:13:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 3.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:14:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:15:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.1,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:16:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 59.9,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:17:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 59.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:18:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 3.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:19:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 59.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:20:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:21:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:22:00",
+    "AirTemp(deg C)": 8.1,
+    "Humidity (%)": 58.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:23:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 58.9,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:24:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 59.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:25:00",
+    "AirTemp(deg C)": 8,
+    "Humidity (%)": 59.4,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:26:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 59.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:27:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:28:00",
+    "AirTemp(deg C)": 7.9,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:29:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:30:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:31:00",
+    "AirTemp(deg C)": 7.8,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:32:00",
+    "AirTemp(deg C)": 7.7,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:33:00",
+    "AirTemp(deg C)": 7.7,
+    "Humidity (%)": 61.5,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:34:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 61.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:35:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:36:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:37:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62.2,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:38:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 2.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:39:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:40:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62.2,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:41:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 62.4,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:42:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:43:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:44:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:45:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.7,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:46:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.8,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:47:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.2,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:48:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:49:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 61.7,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:50:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 61.5,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:51:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:52:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:53:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:54:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:55:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:56:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:57:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:58:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 18:59:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:00:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:01:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:02:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:03:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:04:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:05:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:06:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:07:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:08:00",
+    "AirTemp(deg C)": 7.6,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:09:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.9,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:10:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:11:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:12:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.9,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:13:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:14:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:15:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:16:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 3.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:17:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:18:00",
+    "AirTemp(deg C)": 7.5,
+    "Humidity (%)": 60.2,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:19:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 60.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:20:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 60.5,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:21:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 60.4,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:22:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 60.6,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:23:00",
+    "AirTemp(deg C)": 7.4,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:24:00",
+    "AirTemp(deg C)": 7.3,
+    "Humidity (%)": 60.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:25:00",
+    "AirTemp(deg C)": 7.3,
+    "Humidity (%)": 60.7,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:26:00",
+    "AirTemp(deg C)": 7.3,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:27:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 61.3,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:28:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 61,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:29:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:30:00",
+    "AirTemp(deg C)": 7.2,
+    "Humidity (%)": 61.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:31:00",
+    "AirTemp(deg C)": 7.1,
+    "Humidity (%)": 61.5,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:32:00",
+    "AirTemp(deg C)": 7.1,
+    "Humidity (%)": 61.6,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:33:00",
+    "AirTemp(deg C)": 7.1,
+    "Humidity (%)": 61.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:34:00",
+    "AirTemp(deg C)": 7.1,
+    "Humidity (%)": 61.9,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:35:00",
+    "AirTemp(deg C)": 7,
+    "Humidity (%)": 62,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:36:00",
+    "AirTemp(deg C)": 7,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:37:00",
+    "AirTemp(deg C)": 7,
+    "Humidity (%)": 62.1,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:38:00",
+    "AirTemp(deg C)": 7,
+    "Humidity (%)": 62.2,
+    "WindSpd (m.s-1)": 0.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:39:00",
+    "AirTemp(deg C)": 6.9,
+    "Humidity (%)": 62.3,
+    "WindSpd (m.s-1)": 0.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:40:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 62.7,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:41:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 63.4,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:42:00",
+    "AirTemp(deg C)": 6.8,
+    "Humidity (%)": 63.7,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:43:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 64.1,
+    "WindSpd (m.s-1)": 1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:44:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 64.5,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:45:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 65.1,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:46:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 66,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:47:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 66.3,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:48:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 66.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:49:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:50:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:51:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.1,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:52:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.3,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:53:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:54:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:55:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:56:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:57:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:58:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 19:59:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 67.1,
+    "WindSpd (m.s-1)": 2.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:00:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 67,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:01:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 66.9,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:02:00",
+    "AirTemp(deg C)": 6.7,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:03:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:04:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 66.8,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:05:00",
+    "AirTemp(deg C)": 6.6,
+    "Humidity (%)": 67,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:06:00",
+    "AirTemp(deg C)": 6.5,
+    "Humidity (%)": 67.1,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:07:00",
+    "AirTemp(deg C)": 6.5,
+    "Humidity (%)": 67.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:08:00",
+    "AirTemp(deg C)": 6.5,
+    "Humidity (%)": 67.3,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:09:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 67.4,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:10:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 67.7,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:11:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 68.1,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:12:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 68.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:13:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 68.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:14:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 68.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:15:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 68.6,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:16:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 68.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:17:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 69,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:18:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 69.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:19:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 69.3,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:20:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 69.7,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:21:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 69.7,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:22:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 69.9,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:23:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:24:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.4,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:25:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 2.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:26:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.3,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:27:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 70.1,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:28:00",
+    "AirTemp(deg C)": 6.4,
+    "Humidity (%)": 70.2,
+    "WindSpd (m.s-1)": 2.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:29:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.3,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:30:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:31:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.5,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:32:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:33:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:34:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:35:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:36:00",
+    "AirTemp(deg C)": 6.3,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:37:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:38:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:39:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 70.7,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:40:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:41:00",
+    "AirTemp(deg C)": 6.2,
+    "Humidity (%)": 70.6,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:42:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 70.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:43:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 71,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:44:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 71,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:45:00",
+    "AirTemp(deg C)": 6.1,
+    "Humidity (%)": 71,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:46:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 71.1,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:47:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 71.1,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:48:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 71.2,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:49:00",
+    "AirTemp(deg C)": 6,
+    "Humidity (%)": 71.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:50:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 71.3,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:51:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 71.2,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:52:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 71.3,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:53:00",
+    "AirTemp(deg C)": 5.9,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:54:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:55:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:56:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:57:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 71.3,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:58:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 20:59:00",
+    "AirTemp(deg C)": 5.8,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:00:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 71.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:01:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 71.6,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:02:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 71.6,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:03:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 71.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:04:00",
+    "AirTemp(deg C)": 5.7,
+    "Humidity (%)": 72,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:05:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:06:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72.1,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:07:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:08:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:09:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72.1,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:10:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72.1,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:11:00",
+    "AirTemp(deg C)": 5.6,
+    "Humidity (%)": 72.1,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:12:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.5,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:13:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.4,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:14:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.6,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:15:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:16:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:17:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.6,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:18:00",
+    "AirTemp(deg C)": 5.5,
+    "Humidity (%)": 72.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:19:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.7,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:20:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:21:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:22:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:23:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:24:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:25:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:26:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:27:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:28:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:29:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:30:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:31:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 73,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:32:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:33:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:34:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 72.8,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:35:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 73,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:36:00",
+    "AirTemp(deg C)": 5.4,
+    "Humidity (%)": 73,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:37:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:38:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73.1,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:39:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73.2,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:40:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73.3,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:41:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73.3,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:42:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:43:00",
+    "AirTemp(deg C)": 5.3,
+    "Humidity (%)": 73.5,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:44:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 73.7,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:45:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 73.9,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:46:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 73.9,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:47:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 73.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:48:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 74,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:49:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 74,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:50:00",
+    "AirTemp(deg C)": 5.2,
+    "Humidity (%)": 74.1,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:51:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:52:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.5,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:53:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.5,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:54:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.5,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:55:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.6,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:56:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:57:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 74.8,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:58:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 75.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 21:59:00",
+    "AirTemp(deg C)": 5.1,
+    "Humidity (%)": 75.1,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:00:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 75.1,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:01:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 75.2,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:02:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 75.1,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:03:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 75.2,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:04:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 75.4,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:05:00",
+    "AirTemp(deg C)": 5,
+    "Humidity (%)": 75.4,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:06:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 75.4,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:07:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 75.5,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:08:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 75.7,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:09:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 75.8,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:10:00",
+    "AirTemp(deg C)": 4.9,
+    "Humidity (%)": 75.8,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:11:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 76.1,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:12:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 76.2,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:13:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 76.2,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:14:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 76.5,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:15:00",
+    "AirTemp(deg C)": 4.8,
+    "Humidity (%)": 76.5,
+    "WindSpd (m.s-1)": 0.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:16:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 76.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:17:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 76.7,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:18:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 77,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:19:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 77.2,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:20:00",
+    "AirTemp(deg C)": 4.7,
+    "Humidity (%)": 77.3,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:21:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 77.4,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:22:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 77.7,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:23:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 77.7,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:24:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.1,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:25:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:26:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.3,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:27:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.5,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:28:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.5,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:29:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:30:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:31:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:32:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:33:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.7,
+    "WindSpd (m.s-1)": 2.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:34:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.7,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:35:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:36:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:37:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:38:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:39:00",
+    "AirTemp(deg C)": 4.6,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:40:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:41:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:42:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 79,
+    "WindSpd (m.s-1)": 2.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:43:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:44:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:45:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:46:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:47:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:48:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:49:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:50:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:51:00",
+    "AirTemp(deg C)": 4.5,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:52:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 78.8,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:53:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:54:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 78.9,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:55:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 79.1,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:56:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 79,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:57:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 79.1,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:58:00",
+    "AirTemp(deg C)": 4.4,
+    "Humidity (%)": 79.2,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 22:59:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.3,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:00:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:01:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:02:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:03:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:04:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:05:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:06:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:07:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:08:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.5,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:09:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.4,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:10:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:11:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:12:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:13:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:14:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:15:00",
+    "AirTemp(deg C)": 4.3,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 2.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:16:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 79.6,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:17:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 79.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:18:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 79.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:19:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 79.7,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:20:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 79.9,
+    "WindSpd (m.s-1)": 2.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:21:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 80,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:22:00",
+    "AirTemp(deg C)": 4.2,
+    "Humidity (%)": 80.2,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:23:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.3,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:24:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.3,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:25:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.3,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:26:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.5,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:27:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.6,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:28:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.6,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:29:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:30:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.7,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:31:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.7,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:32:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.8,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:33:00",
+    "AirTemp(deg C)": 4.1,
+    "Humidity (%)": 80.8,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:34:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 80.9,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:35:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 80.9,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:36:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 81.1,
+    "WindSpd (m.s-1)": 1.7,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:37:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 80.9,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:38:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 81,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:39:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 81.2,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:40:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 81.2,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:41:00",
+    "AirTemp(deg C)": 4,
+    "Humidity (%)": 81.2,
+    "WindSpd (m.s-1)": 1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:42:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.2,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:43:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.3,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:44:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.3,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:45:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.2,
+    "WindSpd (m.s-1)": 0.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:46:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.2,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:47:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.3,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:48:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.3,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:49:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.4,
+    "WindSpd (m.s-1)": 1.8,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:50:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.6,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:51:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.4,
+    "WindSpd (m.s-1)": 1.2,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:52:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.4,
+    "WindSpd (m.s-1)": 1.1,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:53:00",
+    "AirTemp(deg C)": 3.8,
+    "Humidity (%)": 81.5,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:54:00",
+    "AirTemp(deg C)": 3.8,
+    "Humidity (%)": 81.6,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:55:00",
+    "AirTemp(deg C)": 3.8,
+    "Humidity (%)": 81.6,
+    "WindSpd (m.s-1)": 1.6,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:56:00",
+    "AirTemp(deg C)": 3.8,
+    "Humidity (%)": 81.6,
+    "WindSpd (m.s-1)": 1.3,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:57:00",
+    "AirTemp(deg C)": 3.8,
+    "Humidity (%)": 81.6,
+    "WindSpd (m.s-1)": 1.4,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:58:00",
+    "AirTemp(deg C)": 3.8,
+    "Humidity (%)": 81.7,
+    "WindSpd (m.s-1)": 1.5,
+    "Radiation (W.m- )": 0
+  },
+  {
+    "Time": "2019/03/04 23:59:00",
+    "AirTemp(deg C)": 3.9,
+    "Humidity (%)": 81.7,
+    "WindSpd (m.s-1)": 1.9,
+    "Radiation (W.m- )": 0
+  }
+]

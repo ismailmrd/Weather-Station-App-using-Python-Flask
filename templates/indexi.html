@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title> graphe des temperatures : TempMax, TempMin, TempMoy</title>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+
+
+	<script>
+
+		$(document).ready(function(){
+
+			$SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+			var ctx = document.getElementById('main_chart').getContext('2d');
+
+			var config = {
+				type: 'line',
+
+				data: {
+					labels: [1, 2, 3, 4, 5],
+					datasets: [{
+						label: 'temp_max',
+						backgroundColor: 'rgba(255, 0, 0, 0.6)',
+						borderColor: 'rgba(255, 0, 0, 0.6)',
+						data: [12, 34, 12, 1, 34],
+						fill: false,
+					}, {
+						label: 'temp_min',
+						fill: false,
+						backgroundColor: 'rgba(0, 0, 255, 0.6)',
+						borderColor: 'rgba(0, 0, 255, 0.6)',
+						data: [1, 2, 4, 2, 7],
+					}, {
+						label: 'temp_moy',
+						fill: false,
+						backgroundColor: 'rgba(0, 255, 0, 0.6)',
+						borderColor: 'rgba(0, 255, 0, 0.6)',
+						data: [4, 2, 1, 6, 3],
+					}],
+				},
+
+				options: {
+					responsive: true,
+					title: {
+						display: true,
+						text: 'graphe temperature  '
+					},
+					tooltips: {
+						mode: 'index',
+						intersect: false,
+					},
+					hover: {
+						mode: 'nearest',
+						intersect: true
+					},
+					scales: {
+						xAxes: [{
+							display: true,
+							scaleLabel: {
+								display: true,
+								labelString: 'Date'
+							}
+						}],
+						yAxes: [{
+							display: true,
+							scaleLabel: {
+								display: true,
+								labelString: 'Temperature (deg C)'
+							}
+						}]
+					}
+				}
+			}
+
+
+			window.myLine = new Chart(ctx, config);
+			console.log("Hi");
+
+ 			$(".month").click(function() {
+				console.log("Click ID: " + $(this).attr('id'));
+				$.getJSON($SCRIPT_ROOT + '/chart', {month:$(this).attr('id')}, function(received_data) {
+					config.data.labels= received_data.labels;
+					config.data.datasets[0].data = received_data.high_temp;
+					config.data.datasets[1].data = received_data.low_temp;
+					config.data.datasets[2].data = received_data.mean_temp;
+					config.options.title.text = received_data.name;
+					window.myLine.update();
+					console.log("Done");
+				});
+			});
+		});
+
+	</script>
+
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+		<!-- Bootstrap js scripts - used for dropdown menus -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+
+
+</head>
+
+<body>
+	{% include 'includes/_navbar.html' %}
+
+	<div class = "jumbotron">
+		<h1> graphe meteo  </h1>
+		<sub> meteo de chaque mois de l'annee</sub>
+	</div>
+
+	<div class="container">
+
+		<div class = "row">
+			<div class="col-6">
+				<div class="btn-group">
+					<button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    Mois
+					</button>
+					<div class="dropdown-menu">
+				  		<a class="dropdown-item month" id="Jan">Janvier</a>
+				 		<a class="dropdown-item month" id="Feb">Fevrier</a>
+						<a class="dropdown-item month" id="Mar">Mars</a>
+						<a class="dropdown-item month" id="Apr">Avril</a>
+				 		<a class="dropdown-item month" id="May">Mai</a>
+						<a class="dropdown-item month" id="Jun">Juin</a>
+						<a class="dropdown-item month" id="Jul">Juillet</a>
+				 		<a class="dropdown-item month" id="Aug">Aout</a>
+						<a class="dropdown-item month" id="Sep">Septembre</a>
+						<a class="dropdown-item month" id="Oct">Octobre</a>
+				 		<a class="dropdown-item month" id="Nov">Novembre</a>
+						<a class="dropdown-item month" id="Dec">Decembre</a>
+				    <div class="dropdown-divider"></div>
+				    	<a class="dropdown-item month" id="all_months">T</a>
+					</div>
+				</div>
+
+			</div>
+			<div class ="col-6">
+				<div class="btn-group">
+
+					<div class="dropdown-menu">
+				  		<a class="dropdown-item" href="#"></a>
+				 		<a class="dropdown-item" href="#"></a>
+						<a class="dropdown-item" href="#"></a>
+				    <div class="dropdown-divider"></div>
+				    	<a class="dropdown-item" href="#"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+
+			<div class="col-1"></div>
+
+
+			<div class="col-10">
+				<canvas id="main_chart"></canvas>
+			</div>
+
+			<div class="col-1">
+
+
+			</div>
+		</div>
+	</div>
+
+
+</body>

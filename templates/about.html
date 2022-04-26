@@ -1,0 +1,8 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1>a propos de nous</h1>
+  <p>METAGRHYD est spécialisée dans le domaine de l’instrumentation (technique, scientifique et de laboratoire) utilisée dans la météorologie, l’agriculture, l’hydrologie et l'environnement ainsi que leurs applications sectorielles et connexes. Elle offre un package complet de prestations de service comprenant d’abord l’assistance et le conseil technique ensuite la fourniture, l’installation et la mise en service des équipements et enfin la formation sur l’exploitation, la maintenance et l’entretien des équipements précités.
+La qualité du service et la diversité des instruments de mesure offerts dans les domaines de la météorologie, l’hydrologie, l’agriculture et l’environnement ont permis à METAGRHYD d’acquérir rapidement la confiance de plusieurs opérateurs exerçant dans différents secteurs.</p>
+{{ data | safe }}
+{% endblock %}
